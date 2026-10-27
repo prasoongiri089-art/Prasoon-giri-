@@ -1,0 +1,6 @@
+{
+  "summary":  "Architectural plan for implementing a User Progress dashboard in Yogasana that tracks total practice minutes, completed sessions, daily streaks, and recent session history via browser local storage.",
+  "updatedAt":  "2026-10-26T16:15:44.757902502Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Yogasana",
+  "description": "Complete step-by-step yoga practice guide featuring authentic Surya Namaskar, comprehensive asana library, pranayama breathwork, and guided practice timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
